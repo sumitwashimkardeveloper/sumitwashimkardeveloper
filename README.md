@@ -33,9 +33,7 @@
 
 <br/>
 
-<a href="https://drive.google.com/file/d/1cpKmrD33vRcEuiIk6ycv_4-NZt3BKFFl/view?usp=drive_link" target="_blank">
-  <img src="https://img.shields.io/badge/▶%20Watch%20Video-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
-</a>
+https://github.com/user-attachments/assets/e70288b2-2993-4273-b73a-7f1ac044da30
 
 </div>
 
@@ -56,42 +54,38 @@
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-**Languages**
+<sub><b>LANGUAGES</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark" />
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<br/><br/>
 
-**AI / ML Frameworks**
+<sub><b>AI / ML FRAMEWORKS</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<br/><br/>
 
-</td>
-<td valign="top" width="50%">
+<sub><b>GENAI / LLM STACK</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/OpenAI-161B22?style=flat-square&logo=openai&logoColor=white&labelColor=161B22" height="28" />
+<img src="https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=langchain&logoColor=1C3C3C&labelColor=161B22" height="28" />
+<img src="https://img.shields.io/badge/Hugging%20Face-161B22?style=flat-square&logo=huggingface&logoColor=FFD21E&labelColor=161B22" height="28" />
 
-**GenAI / LLM Stack**
+<br/><br/>
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<sub><b>INFRA / VECTOR DBs</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,fastapi,git&theme=dark" />
+<img src="https://img.shields.io/badge/Pinecone-161B22?style=flat-square&logo=pinecone&logoColor=white&labelColor=161B22" height="28" />
 
-**Infra / Vector DBs**
+</div>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+<br/>
 
-</td>
-</tr>
-</table>
-
-<sub>✏️ swap badges to match your real stack — <a href="https://github.com/Ileriayo/markdown-badges">badge reference</a></sub>
+<sub>✏️ swap icons to match your real stack — <a href="https://skillicons.dev">skillicons.dev</a></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0F172A&height=2&width=100%"/>
 
@@ -119,13 +113,13 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sumit-washimkar-640085322/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=161B22" />
 </a>
 <a href="https://leetcode.com/u/2I0EprcuTF/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161B22" />
 </a>
 <a href="https://www.kaggle.com/sumit17125" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-161B22?style=for-the-badge&logo=kaggle&logoColor=20BEFF&labelColor=161B22" />
 </a>
 
 </div>
