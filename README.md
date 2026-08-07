@@ -15,15 +15,10 @@
 <br/>
 
 <!--
-  VIDEO INSTRUCTIONS:
-  1. On github.com, open this README.md in the web editor (pencil icon), or
-     start a new comment on any Issue in this repo.
-  2. Drag-and-drop preloader-video.webm (from this same folder) into the text box.
-  3. GitHub uploads it and inserts a URL like:
-       https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
-     (older style: https://github.com/sumitwashimkardeveloper/sumitwashimkardeveloper/assets/.../xxxx.mp4)
-  4. Copy that URL and paste it below, replacing the placeholder line, then commit.
-     GitHub renders it as an inline, playable video automatically.
+  preloader-video.gif is a converted, looping GIF version of preloader-video.webm
+  (generated with ffmpeg). Embedded as a plain <img> so it autoplays and loops
+  with no player controls, since GitHub's own video attachment player always
+  shows fixed playback controls that can't be hidden.
 -->
 <div align="center">
 
@@ -33,7 +28,7 @@
 
 <br/>
 
-https://github.com/user-attachments/assets/e70288b2-2993-4273-b73a-7f1ac044da30
+<img src="preloader-video.gif" width="260" />
 
 </div>
 
@@ -58,28 +53,38 @@ https://github.com/user-attachments/assets/e70288b2-2993-4273-b73a-7f1ac044da30
 
 <sub><b>LANGUAGES</b></sub>
 <br/>
-<img src="https://skillicons.dev/icons?i=python,js,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,js&theme=dark" />
+<img src="https://img.shields.io/badge/SQL-161B22?style=flat-square&labelColor=161B22" height="28" />
 
 <br/><br/>
 
-<sub><b>AI / ML FRAMEWORKS</b></sub>
+<sub><b>FRAMEWORKS</b></sub>
 <br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
-
-<br/><br/>
-
-<sub><b>GENAI / LLM STACK</b></sub>
-<br/>
-<img src="https://img.shields.io/badge/OpenAI-161B22?style=flat-square&logo=openai&logoColor=white&labelColor=161B22" height="28" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,pytorch&theme=dark" />
 <img src="https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=langchain&logoColor=1C3C3C&labelColor=161B22" height="28" />
-<img src="https://img.shields.io/badge/Hugging%20Face-161B22?style=flat-square&logo=huggingface&logoColor=FFD21E&labelColor=161B22" height="28" />
+<img src="https://img.shields.io/badge/LangGraph-161B22?style=flat-square&labelColor=161B22" height="28" />
 
 <br/><br/>
 
-<sub><b>INFRA / VECTOR DBs</b></sub>
+<sub><b>DATABASES & VECTOR STORES</b></sub>
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,fastapi,git&theme=dark" />
-<img src="https://img.shields.io/badge/Pinecone-161B22?style=flat-square&logo=pinecone&logoColor=white&labelColor=161B22" height="28" />
+<img src="https://skillicons.dev/icons?i=postgres,firebase,supabase&theme=dark" />
+<img src="https://img.shields.io/badge/ChromaDB-161B22?style=flat-square&labelColor=161B22" height="28" />
+
+<br/><br/>
+
+<sub><b>AI DOMAINS</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/LLM-161B22?style=flat-square&labelColor=161B22" height="28" />
+<img src="https://img.shields.io/badge/RAG-161B22?style=flat-square&labelColor=161B22" height="28" />
+<img src="https://img.shields.io/badge/TTS-161B22?style=flat-square&labelColor=161B22" height="28" />
+<img src="https://img.shields.io/badge/STT-161B22?style=flat-square&labelColor=161B22" height="28" />
+
+<br/><br/>
+
+<sub><b>INFRA & CLOUD</b></sub>
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,gcp&theme=dark" />
 
 </div>
 
