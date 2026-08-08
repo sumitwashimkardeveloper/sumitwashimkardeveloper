@@ -21,7 +21,42 @@
 - 📫 Reach me at **[your email or contact link]**
 - ⚡ Fun fact: **[something about you]**
 
+<br/>
+
+<a href="https://www.linkedin.com/in/sumit-washimkar-640085322/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=161B22" />
+</a>
+<a href="https://leetcode.com/u/2I0EprcuTF/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161B22" />
+</a>
+<a href="https://www.kaggle.com/sumit17125" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-161B22?style=for-the-badge&logo=kaggle&logoColor=20BEFF&labelColor=161B22" />
+</a>
+
 <br clear="both"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0F172A&height=2&width=100%"/>
+
+## 📊 GitHub Metrics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sumitwashimkardeveloper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitwashimkardeveloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitwashimkardeveloper&theme=tokyonight&hide_border=true&background=0D1117" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sumitwashimkardeveloper&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sumitwashimkardeveloper&style=for-the-badge&color=6D28D9" />
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0F172A&height=2&width=100%"/>
 
@@ -69,48 +104,5 @@
 <br/>
 
 <sub>✏️ swap icons to match your real stack — <a href="https://skillicons.dev">skillicons.dev</a></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0F172A&height=2&width=100%"/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sumitwashimkardeveloper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitwashimkardeveloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitwashimkardeveloper&theme=tokyonight&hide_border=true&background=0D1117" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sumitwashimkardeveloper&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0F172A&height=2&width=100%"/>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sumit-washimkar-640085322/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=161B22" />
-</a>
-<a href="https://leetcode.com/u/2I0EprcuTF/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=161B22" />
-</a>
-<a href="https://www.kaggle.com/sumit17125" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-161B22?style=for-the-badge&logo=kaggle&logoColor=20BEFF&labelColor=161B22" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumitwashimkardeveloper&style=for-the-badge&color=6D28D9" />
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:2563EB,100:6D28D9&height=120&section=footer"/>
