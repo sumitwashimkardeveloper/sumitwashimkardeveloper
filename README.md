@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:06B6D4&height=220&section=header&text=Sumit%20Washimkar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
-<img align="right" src="profile.png" width="260" />
+<img align="right" src="profile.webp" width="260" />
 
 <a href="https://github.com/sumitwashimkardeveloper">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=false&vCenter=true&width=500&height=45&lines=AI+Engineer+%F0%9F%A4%96;GenAI+%2F+LLM+Engineer+%F0%9F%9A%80;Building+RAG+%2B+Agentic+Systems;Turning+Prompts+into+Products" alt="Typing SVG" />
