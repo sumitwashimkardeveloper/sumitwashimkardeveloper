@@ -1,40 +1,16 @@
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:2563EB,100:06B6D4&height=220&section=header&text=Sumit%20Washimkar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20Engineer%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
+<img align="right" src="profile.png" width="260" />
+
 <a href="https://github.com/sumitwashimkardeveloper">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=true&vCenter=true&width=600&height=45&lines=AI+Engineer+%F0%9F%A4%96;GenAI+%2F+LLM+Engineer+%F0%9F%9A%80;Building+RAG+%2B+Agentic+Systems;Turning+Prompts+into+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&center=false&vCenter=true&width=500&height=45&lines=AI+Engineer+%F0%9F%A4%96;GenAI+%2F+LLM+Engineer+%F0%9F%9A%80;Building+RAG+%2B+Agentic+Systems;Turning+Prompts+into+Products" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-AI%20%2F%20GenAI%20Roles-6D28D9?style=for-the-badge&labelColor=000000" />
 
-</div>
-
-<br/>
-
-<!--
-  preloader-video.gif is a converted, looping GIF version of preloader-video.webm
-  (generated with ffmpeg). Embedded as a plain <img> so it autoplays and loops
-  with no player controls, since GitHub's own video attachment player always
-  shows fixed playback controls that can't be hidden.
--->
-<div align="center">
-
-### 🎬 Quick Intro
-
-<sub>a few seconds of me, in motion</sub>
-
-<br/>
-
-<img src="preloader-video.gif" width="260" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0F172A&height=2&width=100%"/>
+<br/><br/>
 
 ## 🧠 About Me
 
@@ -44,6 +20,8 @@
 - 💬 Ask me about **LLMs, RAG, prompt engineering, agentic workflows**
 - 📫 Reach me at **[your email or contact link]**
 - ⚡ Fun fact: **[something about you]**
+
+<br clear="both"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0F172A&height=2&width=100%"/>
 
